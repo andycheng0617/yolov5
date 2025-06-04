@@ -64,6 +64,7 @@ VOC/
 *_paddle_model/
 darknet53.conv.74
 yolov3-tiny.conv.15
+runs/
 
 # GitHub Python GitIgnore ----------------------------------------------------------------------------------------------
 # Byte-compiled / optimized / DLL files
