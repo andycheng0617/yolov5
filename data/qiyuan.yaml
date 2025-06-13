@@ -11,7 +11,7 @@
 path: ../datasets/qiyuan # dataset root dir
 train: images/train2025 # train images (relative to 'path') 128 images
 val: images/val2025 # val images (relative to 'path') 128 images
-test: images/val2025 # test images (optional)
+test: images/test2025 # test images (optional)
 
 # Classes
 names:
